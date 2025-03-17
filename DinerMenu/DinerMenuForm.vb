@@ -1,4 +1,9 @@
-﻿Public Class DinerMenuForm
+﻿'Rudy Earnest
+'RCET 2265
+'Spring 2025
+'Diner Menu Form
+'https://github.com/rc-earnest/DinerMenu.git
+Public Class DinerMenuForm
     ''' <summary>
     ''' On startup this sets the tool tips and the defaults for each item.
     ''' </summary>
